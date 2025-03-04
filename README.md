@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ayush
+- 👋 Hi, I’m Ayush aka cOntineNtal
 - 👀 I’m interested in Cybersecurity and Web3
 - 🌱 I’m currently learning Solidity,blockchains,binary exploitation and reverse engineering
 - 💞️ I’m looking to collaborate on with web3 developers and CTF players
